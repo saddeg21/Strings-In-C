@@ -21,3 +21,5 @@ We have a got a few things to notice while creating a design for our special-pur
 3) Compiler must eliminate the characters when there is no more places to put character.
 4) Compiler must return the number of character stays in array and should take two arguments which are pointer to a string and the length of string.
 
+## DIAGRAM 
+![abc drawio](https://user-images.githubusercontent.com/89015461/192794897-5a321524-d16d-40f7-897d-99914582d265.png)
